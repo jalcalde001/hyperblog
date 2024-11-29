@@ -10,5 +10,10 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increíble Platzi Team
+<<<<<<< HEAD
+=======
+* Incluye ejemplos en windows, linux y mac
+* Disponibles para todas las edades
+>>>>>>> readme-mejorado
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve a [ver el curso](http://https://platzi.com/home/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "ver el curso").
